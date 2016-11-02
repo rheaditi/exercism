@@ -11,3 +11,10 @@ My exercism solutions in one  place :)
 - [x] Bob
 - [x] Gigasecond
 - [x] Word Count
+- [x] Isogram
+- [ ] Pangram
+- [ ] Beer Song
+- [ ] Phone Number
+- [ ] Anagram
+- [ ] Food Chain
+- [ ] Grade School

@@ -7,12 +7,12 @@
 var HelloWorld = function() {};
 
 HelloWorld.prototype.hello = function(input) {
-	if(!input || input ===''){
-		return 'Hello, World!';
-	}
-	else {
-		return `Hello, ${input}!`;
-	}
+    if(!input || input ===''){
+        return 'Hello, World!';
+    }
+    else {
+        return `Hello, ${input}!`;
+    }
 };
 
 module.exports = HelloWorld;
